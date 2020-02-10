@@ -1,0 +1,16 @@
+<html>
+	<head>
+		<title>HTML Frames</title>
+	</head>
+	
+	<frameset cols="*,*,*">
+		<frame name="top" src="Fashion" />
+		<frameset rows="*,*,*">
+				<frame src="pup.jpg">
+				<frame src="girls.jpg">
+				<frame src="pup.jpg">
+		</frameset>
+		<frame name="bottom" src="pup.jpg" />
+			
+	</frameset>
+</html>
