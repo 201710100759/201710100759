@@ -1,0 +1,73 @@
+<html>
+	<head>
+		<title>Time Table section 9</title>
+	</head>
+	<body>
+		<table border = "1">
+			<tr>
+				<th colspan = "9" align = "middle">Time Table</th>
+			</tr>
+			<tr align = "middle">
+				<th>TIME/DAY</th>
+				<th>9:00-9:55</th>
+				<th>10:00-10:55</th>
+				<th>10:55-11:15</th>
+				<th>11:15-12:10</th>
+				<th>12:10-01:05</th>
+				<th>01:05-02:00</th>
+				<th>02:00-02:55</th>
+				<th>03:00-03:55</th>
+			</tr>
+			<tr align = "middle">
+				<th>Monday</th>
+				<td colspan="2">IT-LAB</td>
+				<td rowspan = '6'>TEA BREAK</td>
+				<td>DE2:ML/WDM/CS</td>
+				<td rowspan = "3">LUNCH BREAK</td>
+				<td>Dig. Ent</td>
+				<td>OOAD</td>
+				<td>GTC</td>
+			</tr>
+			<tr align = "middle">
+				<th>Tuesday</th>
+				<td colspan="2" bgcolor = "red">AT</td>
+				<td>Dig. Ent</td>
+				<td>GTC</td>
+				<td colspan ="2">OOAD</td>
+			</tr>
+			<tr align = "middle">
+				<th>Wednesday</th>
+				<td colspan="2" bgcolor = "red">SST</td>
+				<td>DE2:ML/WDM/CS</td>
+				<td>Dig. Ent</td>
+				<td>GTC</td>
+				<td>OOAD</td>
+			</tr>	
+			<tr align = "middle">
+				<th>Thursday</th>
+				<td>GTC</td>
+				<td>OOAD</td>
+				<td colspan="2">NP-LAB</td>
+				<td>LUNCH BREAK</td>
+				<td bgcolor = "yellow">LIBRARY</td>
+				<td bgcolor = "yellow">CCH</td>
+			</tr>
+			<tr align = "middle">
+				<th>Friday</th>
+				<td colspan="2">IT-LAB</td>
+				<td>DE2:ML/WDM/CS</td>
+				<td>LUNCH BREAK</td>
+				<td>IT</td>
+				<td colspan="2" bgcolor = "red">AT</td>
+			</tr>
+			<tr align = "middle">
+				<th>Saturday</th>
+				<td colspan="2" bgcolor = "orange">ACTIVE LEARNING ACTIVITY SESSION-1</td>
+				<td colspan="2" bgcolor = "orange">ACTIVE LEARNING ACTIVITY SESSION-2</td>
+				<td> </td>
+				<td> </td>
+				<td> </td>
+			</tr>					
+		</title>
+	</body>
+</html>
