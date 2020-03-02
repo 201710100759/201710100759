@@ -2,11 +2,11 @@
 	<head>
 		<title>Types of Borders</title>
 			<style>
-				p.dotted{border-style:dotted;}
+				p.dotted{border-style:dotted; border-width:medium}
 				p.dashed{border-style:dashed;}
-				p.solid{border-style:solid;}
+				p.solid{border-style:solid;border-width:20px}
 				p.double{border-style:double;}
-				p.groove{border-style:groove;}
+				p.groove{border-style:groove;border-width:2px 10px 4px 20px}
 				p.ridge{border-style:ridge;}
 				p.inset{border-style:inset;}
 				p.outset{border-style:outset;}
@@ -16,7 +16,7 @@
 			</style>
 	</head>
 	<body>	
-		<p class="dotted"> Testing </p>
+		<p class="dotted"> Testing wow cupcake browine chocolate romeo</p>
 		<p class="dashed"> Testing </p>
 		<p class="solid"> Testing </p>
 		<p class="double"> Testing </p>
