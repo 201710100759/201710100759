@@ -1,0 +1,20 @@
+<html>
+	<head>
+		<title>PRESIDENCY UNIVERSITY</title>
+	</head>
+	
+	<frameset rows="90%,5%">
+		<frameset cols="75%,25%">
+			<frameset rows="20%,60%,20%">
+				<frame src="">
+				<frame src="">
+				<frame src="last.html">
+			</frameset>
+			<frameset rows="50%,50%">	
+			<frame src="test2.html">
+			<frame src="">
+	</frameset>
+	</frameset>
+		
+</frameset>
+</html>
